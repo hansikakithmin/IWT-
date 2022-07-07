@@ -1,0 +1,13 @@
+.aa{width: 50px;height: 50px;}
+.bb{width: 50px;height: 50px}
+.cc{width: 50px;height: 50px}
+.dd{width: 50px;height: 50px}
+.bttn1{
+	width:10%;
+	height:40px;
+	background-color:grey;
+	display:block;
+}
+body{
+	background-image:url("");
+}

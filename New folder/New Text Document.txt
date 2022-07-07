@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>hedder/foter</title>
+	<style type="text/css">
+
+		ul.menu{background-color: #333;
+			overflow:hidden;}
+		li.menu{float: left;}
+
+		li a{
+			display: block;
+			color: white;
+			text-align: center;
+			padding: 14px 16px;
+		    text-decoration: none;
+		}
+		li a:hover{
+			background-color: pink;
+		}
+		.productData{
+			background-color: white;
+			padding: 5px;
+		}
+	</style>
+</head>
+<body>
+	
+	
+	<div style="background-color: lightgray;">
+	<center style="font-size: 55px;color: red;"><b><u>B Drive Car Company</u></b>
+		<hr>
+		</center>
+		<ul class="menu">
+			<li class="menu"><a href="">Home</a></li>
+			<li class="menu"><a href=""> Vehicle fleet</a></li>
+			<li class="menu"><a href=""> services</a></li>
+			<li class="menu"><a href="">Rate</a></li>
+			<li class="menu"><a href="">Contact us</a></li>
+		<b style="color: white;">search</b><input type="search" name="">
+			
+		</ul>
+
+        
+
+    </div>
+    <hr>
+</body>
+</html>

@@ -1,0 +1,35 @@
+
+body{
+	background-image:url("");
+}
+.bttn0{
+	width:10%;
+	height:50px;
+	background-color:yellow;
+	
+}
+.bttn1{
+	width:30%;
+	height:50px;
+	background-color:grey;
+	display:block;
+}
+.aa{width: 50px;height: 50px;}
+.bb{width: 50px;height: 50px}
+.cc{width: 50px;height: 50px}
+.dd{width: 50px;height: 50px}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child() {
+  background-color: #dddddd;
+}
